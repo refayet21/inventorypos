@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "77048286492",
+    "firebase_url": "https://salespro-saas-4a6d5-default-rtdb.firebaseio.com",
+    "project_id": "salespro-saas-4a6d5",
+    "storage_bucket": "salespro-saas-4a6d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77048286492:android:d5b9f26e5e4423b8847ed9",
+        "android_client_info": {
+          "package_name": "com.maantechnology.salesprosaasmain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77048286492-rsjcrqgi6f9q7kv7kl23elid6ba57b1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZKDgHRWPDdlWarcWizDf4ZsP55jRm-SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77048286492-rsjcrqgi6f9q7kv7kl23elid6ba57b1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
